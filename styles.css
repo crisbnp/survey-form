@@ -38,7 +38,7 @@ body {
     border-radius: 5px;
     width: 80%;
     padding: 20px;
-    margin-bottom: 40px;
+    margin-bottom: 60px;
 }
 
 .form-row {
@@ -87,6 +87,20 @@ body {
     border: none;
     border-radius: 3px;
     align-self: center;
+}
+
+footer {
+    font-family: monospace;
+    font-size: 12px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+hr{
+    width: 100%;
+    border: none;
+    border-top: 2px solid #ffb6b9;
+    margin: 20px 0;
 }
 
 @media only screen and (min-width: 700px) {
